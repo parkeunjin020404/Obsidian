@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "5cc471a1db05fd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc4a8ef5d7e6db8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21bf9230a0564700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "빅데이터 수업 코드 복습.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f62f5f011491a9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "181a7e274461b578",
+    "type": "split",
+    "children": [
+      {
+        "id": "4960646fceb8f83a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3abdc95138d3c481",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b5634505a77a3e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7606a27ee11392da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d9b73a2afe5bf73",
+    "type": "split",
+    "children": [
+      {
+        "id": "b31aa2ced9223320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7529ee2a17799b6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "빅데이터 수업 코드 복습.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "458fbb33fa55611d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "빅데이터 수업 코드 복습.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56b7cf3100e57099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e57c6ebb63791983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "빅데이터 수업 코드 복습.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "21bf9230a0564700",
+  "lastOpenFiles": [
+    "빅데이터 수업 코드 복습.md"
+  ]
+}
